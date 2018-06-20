@@ -1,5 +1,5 @@
 # WebSploit
-This is a virtual machine (VM) created by [Omar Santos](https://omarsantos.io) for different Cybersecurity Ethical Hacking (Web Penetration Testing) training sessions. The purpose of this VM is to have a lightweight (single VM) with a few web application penetration testing tools, as well as vulnerable applications.
+This is a virtual machine (VM) created by [Omar Santos](https://omarsantos.io) for different (Cybersecurity Ethical Hacking (Web Penetration Testing) training sessions](https://theartofhacking.org). The purpose of this VM is to have a lightweight (single VM) with a few web application penetration testing tools, as well as vulnerable applications.
 
 
 ## IMPORTANT!!!
