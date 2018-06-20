@@ -8,8 +8,8 @@ DO NOT connect to a production environment and use with caution!!!
  
  
 ## Tools included
-- [BurpSuite Community Edition]
-- [OWASP Zed Attack Proxy (ZAP)]
+- [BurpSuite Community Edition](https://portswigger.net/burp)
+- [OWASP Zed Attack Proxy (ZAP)](https://www.owasp.org/index.php/OWASP_Zed_Attack_Proxy_Project)
 - [nmap](https://linux.die.net/man/1/nmap)
 - [nikto](https://cirt.net/nikto2-docs)
 - [sqlmap](https://github.com/sqlmapproject/sqlmap/wiki/Usage)
