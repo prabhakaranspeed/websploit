@@ -13,12 +13,8 @@ DO NOT connect to a production environment and use with caution!!!
 2. Download the .ova file from this repository and import it in VirtualBox. [Click here](https://www.virtualbox.org/manual/ch01.html#ovf) for detailed instructions on how to import a VM in VirtualBox.
 
  
-## Tools included
-- [BurpSuite Community Edition](https://portswigger.net/burp)
-- [OWASP Zed Attack Proxy (ZAP)](https://www.owasp.org/index.php/OWASP_Zed_Attack_Proxy_Project)
-- [nmap](https://linux.die.net/man/1/nmap)
-- [nikto](https://cirt.net/nikto2-docs)
-- [sqlmap](https://github.com/sqlmapproject/sqlmap/wiki/Usage)
+## Just a Kali Linux VM with Vulnerable Applications
+This is an all-in-one Kali + Vulnerable Applications standalone VM designed for you to practice your skills in a safe environment.
  
  
 ## Vulnerable Servers Included
@@ -37,4 +33,9 @@ If they are not started use the following commands to start each container:
 sudo docker start dvwa
 sudo docker start webgoat
 sudo docker start hackazon
+```
+
+If for some reason docker does not start at bootup use the following command to start it:
+```
+service docker start
 ```
