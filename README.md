@@ -10,7 +10,7 @@ DO NOT connect to a production environment and use with caution!!!
 
 1. Download [VirtualBox](https://www.virtualbox.org). This is an all-in-one VM created and tested in [VirtualBox](https://www.virtualbox.org).  VirtualBox is a general-purpose full virtualizer for x86 hardware, targeted at server, desktop and embedded use. For a thorough introduction to virtualization and VirtualBox, please refer to [the online version of the VirtualBox User Manual's first chapter](https://www.virtualbox.org/manual/ch01.html).
 
-2. Download the .ova file from this repository and import it in VirtualBox. [Click here](https://www.virtualbox.org/manual/ch01.html#ovf) for detailed instructions on how to import a VM in VirtualBox.
+2. **Download the .ova file from http://h4cker.org/websploit** and import it in VirtualBox. [Click here](https://www.virtualbox.org/manual/ch01.html#ovf) for detailed instructions on how to import a VM in VirtualBox.
 
  
 ## Just a Kali Linux VM with Vulnerable Applications
