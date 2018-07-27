@@ -21,6 +21,8 @@ This is an all-in-one Kali + Vulnerable Applications standalone VM designed for 
 - [Damn Vulnerable Web Application (DVWA)](http://www.dvwa.co.uk/)
 - [WebGoat](https://www.owasp.org/index.php/Category:OWASP_WebGoat_Project)
 - [Hackazon](https://github.com/rapid7/hackazon)
+- [OWASP Juice Shop](https://www.owasp.org/index.php/OWASP_Juice_Shop_Project)
+- [OWASP Mutillidae 2](https://www.owasp.org/index.php/OWASP_Mutillidae_2_Project)
  
 ### All of the vulnerable servers are running in Docker containers
 
@@ -33,6 +35,8 @@ If they are not started use the following commands to start each container:
 sudo docker start dvwa
 sudo docker start webgoat
 sudo docker start hackazon
+sudo docker start mutillidae_2
+sudo docker start juice_shop
 ```
 
 If for some reason docker does not start at bootup use the following command to start it:
