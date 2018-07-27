@@ -10,10 +10,6 @@ The following are the vulnerable applications included:
 docker run  --name webgoat -d --restart unless-stopped -p 6661:8080 -t webgoat/webgoat-8.0
 docker run --name hackazon -d --restart unless-stopped -p 80:80 bepsoccer/all-in-one-hackazon
 docker run --name dvwa --restart unless-stopped --rm -itd -p 6663:80 vulnerables/web-dvwa
-```
-
-I will add Mutillidae 2 soon
-
-```
-docker run --name mutillidae_2 --restart unless-stopped  -d -p 6664:80 citizenstig/nowasp
+docker run --name mutillidae_2 --restart unless-stopped -d -p 6664:80 citizenstig/nowasp
+docker run --name juice-shop --restart unless-stopped -d -p 6662:3000 bkimminich/juice-shop
 ```
